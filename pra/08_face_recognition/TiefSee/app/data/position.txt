@@ -1,0 +1,5 @@
+﻿width: 550.4
+height: 480
+left: 443.2
+top: 384
+max: False

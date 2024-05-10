@@ -1,0 +1,10 @@
+'''
+VideoCapture(0)
+cv2.CAP_PROP_FRAME_WIDTH
+cv2.CAP_PROP_FRAME_HEIGHT
+release()
+destroyAllWindows()
+cv2.COLOR_BGR2GRAY
+GaussianBlur(img,(7,7),0,0)
+cv2.threshold(img,127,255,cv2.THRESH_BINARY)
+'''
